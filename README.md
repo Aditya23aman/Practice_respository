@@ -1,3 +1,3 @@
 ## Practicing git
-## Changes
-## new changes
+### Changes
+### new changes
